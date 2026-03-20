@@ -22,6 +22,7 @@ Data Engineering: Pandas, NumPy
 Visualization: Matplotlib
 
 ## Project Structure
+```text
 ├── data/               # Raw datasets
 ├── notebooks/          # EDA and Model Iterations
 ├── src/
