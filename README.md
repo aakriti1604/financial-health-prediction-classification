@@ -32,7 +32,6 @@ Visualization: Matplotlib
 └── requirements.txt
 
 ## 🏆 Performance & Leaderboard Results
-
 The model demonstrated strong generalization capabilities, maintaining high performance across both public and private evaluation sets.
 
 * **Public F1-Score:** 0.8895

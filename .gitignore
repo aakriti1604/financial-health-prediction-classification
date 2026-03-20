@@ -1,0 +1,34 @@
+# --- Data and Large Files ---
+# Ignore the entire data folder
+data/
+# Ignore any CSV, Excel, or Zip files if they aren't in /data
+*.csv
+*.xlsx
+*.zip
+*.7z
+
+# --- Model Weights and Pickles ---
+# These are too big for Git
+*.pkl
+*.joblib
+*.bin
+*.model
+*.onnx
+
+# --- Python / Environment ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+build/
+dist/
+
+# --- IDEs and Notebooks ---
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
