@@ -9,6 +9,7 @@ This project aims to classify Small and Medium Enterprises (SMEs) into three tie
 - Debt & Repayment Ability
 - Resilience to Shocks
 - Access to Credit & Financial Services
+
 The model is designed to help financial institutions and policymakers identify vulnerable businesses and support high-growth SMEs in emerging markets (Eswatini, Lesotho, Zimbabwe, Malawi).
 
 https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge
