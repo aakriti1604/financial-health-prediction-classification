@@ -1,6 +1,6 @@
-# --- Data and Large Files ---
-
 # --- Model Weights and Pickles ---
+# Do NOT ignore the .gitkeep files
+!data/**/.gitkeep
 # These are too big for Git
 *.pkl
 *.joblib
