@@ -1,6 +1,9 @@
-pandas
+#To install these dependencies, run: pip install -r requirements.txt
+catboost
+lightgbm
 matplotlib
-scikit-learn
 numpy
-seaborn
+pandas
+scikit-learn
+scipy
 xgboost
