@@ -28,12 +28,14 @@ Visualization: Matplotlib
 ## Project Structure
 
 ```text
-├── data/               # Raw datasets
-├── notebooks/          # EDA and Model Iterations
-├── src/
-│   ├── preprocessing.py # Scaling, Binning, and Feature Engineering
-│   ├── models.py        # Model implementation
-│   └── evaluation.py    # Model Evaluation
+├── data/
+│   ├── raw/           
+│   ├── processed/     
+│   └── submissions/
+├── notebooks/
+│   ├── 01_Exploratory_Data_Analysis.ipynb
+│   └── 02_Model_Training.ipynb          
+├── .gitignore  
 ├── README.md
 └── requirements.txt
 ```
