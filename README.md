@@ -44,6 +44,6 @@ Visualization: Matplotlib
 
 The model demonstrated strong generalization capabilities, maintaining high performance across both public and private evaluation sets.
 
-* **Public F1-Score:** 0.8884
-* **Private F1-Score:** 0.8749
+* **Public F1-Score:** 0.8859
+* **Private F1-Score:** 0.8801
 * **Stability:** < 2% variance between sets, indicating minimal overfitting and high model reliability.
